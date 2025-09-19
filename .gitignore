@@ -1,0 +1,6 @@
+# Solo incluir
+!*.ipynb
+!*.py
+
+# Archivos PDF generados
+*.pdf
